@@ -2,6 +2,10 @@
 
 A Next.js application that demonstrates function chaining and real-time mathematical calculations. Users can input mathematical expressions that are evaluated in a specific sequence, with the output of each function feeding into the next.
 
+## 🌟 Live Demo
+
+Try out the application here: [Function Chain Calculator](https://atlys-assignment-inky.vercel.app/)
+
 ## 📸 Screenshot
 
 ![Function Chain Calculator](/public/images/screenshot.png)
