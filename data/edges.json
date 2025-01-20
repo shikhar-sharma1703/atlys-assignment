@@ -1,0 +1,68 @@
+[
+  {
+    "id": "edge-input-function1",
+    "source": "input",
+    "target": "function-1",
+    "position": {
+      "x0": 237,
+      "y0": 388.5,
+      "x1": 293,
+      "y1": 388.5
+    }
+  },
+  {
+    "id": "edge-function1-function2",
+    "source": "function-1",
+    "target": "function-2",
+    "position": {
+      "x0": 471,
+      "y0": 388,
+      "x1": 660,
+      "y1": 388
+    }
+  },
+  {
+    "id": "edge-function2-function4",
+    "source": "function-2",
+    "target": "function-4",
+    "position": {
+      "x0": 837.5,
+      "y0": 388.5,
+      "x1": 482,
+      "y1": 747
+    }
+  },
+  {
+    "id": "edge-function4-function5",
+    "source": "function-4",
+    "target": "function-5",
+    "position": {
+      "x0": 660,
+      "y0": 746,
+      "x1": 851,
+      "y1": 746
+    }
+  },
+  {
+    "id": "edge-function5-function3",
+    "source": "function-5",
+    "target": "function-3",
+    "position": {
+      "x0": 1029.5,
+      "y0": 746,
+      "x1": 1018,
+      "y1": 388.5
+    }
+  },
+  {
+    "id": "edge-function3-output",
+    "source": "function-3",
+    "target": "output",
+    "position": {
+      "x0": 1196,
+      "y0": 388.5,
+      "x1": 1254,
+      "y1": 388.5
+    }
+  }
+]
